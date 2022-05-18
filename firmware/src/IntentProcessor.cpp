@@ -117,7 +117,7 @@ IntentResult IntentProcessor::processIntent(const Intent &intent)
     {
         return turnOnDevice(intent);
     }
-    if (intent.intent_name == "Tell_joke")
+    if (intent.intent_name == "tell_joke")
     {
         return tellJoke();
     }

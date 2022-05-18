@@ -1,7 +1,7 @@
 // WiFi credentials
 #include <marvin-private.h>
-#define WIFI_SSID "<<YOUR SSID>>"
-#define WIFI_PSWD "<<YOUR PASSOWRD>>"
+#define WIFI_SSID "NOWTVRCXCG"   // Use your Own WIFI SSID
+#define WIFI_PSWD "ZMvHkSBc9dcT" // Use your Own WIFI Password
 
 // are you using an I2S microphone - comment this out if you want to use an analog mic and ADC input
 #define USE_I2S_MIC_INPUT
